@@ -5,7 +5,10 @@ Enter the two numbers:
 
 23
 24
+
+
 1.Addition
+
 2.Substraction
 3.Mutiplication
 4.Division
