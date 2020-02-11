@@ -30,5 +30,5 @@ The Division of Two numbers 23 and 24 is 0
 choose any operation
 5
 The Modulus of Two numbers 23 and 24 is 23
-choose any operation
+choose any .
 6
